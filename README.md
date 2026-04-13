@@ -40,6 +40,14 @@ This feature combination provides sufficient descriptive information to distingu
 
 The dataset consists of **4,396 labeled water consumption events**, covering all defined activity classes and ensuring statistical representativeness for machine learning model training and evaluation.
 
+# Paper related and citation
+Link to paper: https://www.mdpi.com/2227-7080/14/4/223
+
+
+# Authors
+Iván Neftalí Chávez-Flores; Héctor A. Guerrero-Osuna; Jesuś Antonio Nava-Pintor; Fabián García-Vázquez; LuisF. Luque-Vega; Rocío Carrasco-Navarro;
+Marcela E. Mata-Romero; Jorge A. Lizarraga; Salvador Castro-Tapia
+
 ## Purpose
 
 This dataset was used to train and evaluate supervised machine learning models (e.g., SVM, Random Forest, KNN, Decision Tree, and RNN/LSTM) for automated classification of residential water consumption patterns.
